@@ -10,4 +10,4 @@ This is Even Odd Numbers Checking Simple iOS Application
 
 ## Usage
 - This Application is use for the entered Number is Even or Odd.
-- This application will take only numbers it now Allow to enter string or other charachters.
+- This application will take only numbers it not Allow to enter string or other charachters.
